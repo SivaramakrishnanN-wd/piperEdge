@@ -1,0 +1,24 @@
+#main {
+  width: 100%;
+  border: solid;
+}
+.product_table {
+  width: 60%;
+  text-align: center;
+}
+.first_table {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.add {
+  background-color: green;
+  width: 100%;
+  color: white;
+}
+.remove {
+  background-color: Red;
+  width: 100%;
+  color: white;
+}
